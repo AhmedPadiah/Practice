@@ -6,7 +6,7 @@ namespace Roog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello , my name is Ahmed Kobue and am making changes to git");
         }
     }
 }
